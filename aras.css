@@ -1,0 +1,15 @@
+h1{
+    color: blue;
+}
+h2{
+    color: coral;
+}
+h3{
+    color:red
+}
+p{
+    color: chartreuse;
+}
+*{
+    list-style: square; background-color: black;
+}
