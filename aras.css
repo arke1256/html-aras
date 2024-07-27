@@ -1,15 +1,15 @@
 h1{
-    color: blue;
+    color: rgb(97, 97, 219);
 }
 h2{
-    color: coral;
+    color: rgb(154, 87, 62);
 }
 h3{
-    color:red
+    color:rgb(211, 50, 50)
 }
 p{
-    color: chartreuse;
+    color: rgb(126, 201, 52);
 }
 *{
-    list-style: square; background-color: black;
+    list-style: square; background-color: rgb(41, 34, 34);
 }
